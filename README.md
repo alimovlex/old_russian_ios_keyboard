@@ -1,2 +1,3 @@
-# old_russian_ios_keyboard
-This is my attempt of creating the pre-revolutionary based keyboard. 
+# Old_Russian_Keyboard
+
+Here is my attempt to create the pre revolutionary old Russian Keyboard.
